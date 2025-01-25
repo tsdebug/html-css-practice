@@ -1,0 +1,22 @@
+em{
+    color: crimson;
+    font-style: normal;
+}
+video {
+    width: 400px;
+}
+table, tr, th, td
+        {border: 1px solid grey;
+         border-collapse: collapse;
+         padding: 5px;
+        }
+div.pro{
+        background-color: skyblue;
+        }
+div.abc{
+        background-color: lightsalmon;
+        }
+span.try{
+        background-color: gold;
+        width: 100px;
+        }
